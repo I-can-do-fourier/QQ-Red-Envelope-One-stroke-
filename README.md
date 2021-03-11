@@ -11,6 +11,6 @@
 ### 1. 图像预处理
 **预处理的步骤为:高斯滤波->生成灰度图->缩放->阈值分割->canny变换**
 #### canny变换：生成轮廓图，为后面的hough变换做准备。
-![alt text](/image/canny.JPG=500x)
+![alt text](/image/canny.JPG =500x)
 
 
