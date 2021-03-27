@@ -13,4 +13,5 @@
 #### canny变换：生成轮廓图，为后面的hough变换做准备。
 <img src="/image/canny.JPG" width="400">
 
+### 2. 寻找方形轮廓
 
