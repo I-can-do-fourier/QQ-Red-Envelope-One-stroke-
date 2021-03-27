@@ -14,3 +14,4 @@
 <img src="/image/canny.JPG" width="400"/>
 
 ### 2. 寻找方形区域
+**（1）使用hough变换找到图中所有直线
