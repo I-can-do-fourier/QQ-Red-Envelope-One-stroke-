@@ -17,4 +17,4 @@
 #### （1）使用hough变换找到图中所有直线
 #### （2）由于方形轮廓的边长较长，因此可以调整hough变换函数的参数，筛选出构成方形的直线
 #### （3）提取所找到的方形区域，进行阈值分割
-<img src="/image/square2.JPG" width="200"/>
+<img src="/image/square2.jpg" width="200"/>
